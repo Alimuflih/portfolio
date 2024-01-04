@@ -4,3 +4,6 @@ $(document).scroll(function() {
       $(this).scrollTop() > $(".navbar").height()
     );
   });
+
+  // -------AOS--------
+  AOS.init();
