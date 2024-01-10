@@ -247,10 +247,11 @@ h3 {
   border-radius: 20px;
   margin: 5px 18px 70px 18px;
   padding: 25px;
-
+}
+.service-box:hover{
+  box-shadow: #0F8E63 0px 1px 0px;
 
 }
-
 .lorem {
   font-size: 16px;
   font-weight: 400;
@@ -396,7 +397,6 @@ footer span {
 
   .main-heading {
     font-size: 35px;
-     -webkit-text-stroke: .5px #FFFFFF50;
 
   }
   .main-heading-div h3{
@@ -425,5 +425,9 @@ h4{
 }
 footer{
   font-size: 14px;
+}
+.skills{
+  align-items: center;
+  justify-content: left;
 }
 }
