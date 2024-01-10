@@ -263,7 +263,7 @@ h3 {
 }
 
 .service-box-heading {
-  font-size: 23px;
+  font-size: 20px;
   font-weight: 600;
   padding: 15px 0;
 }
@@ -396,6 +396,8 @@ footer span {
 
   .main-heading {
     font-size: 35px;
+     -webkit-text-stroke: .5px #FFFFFF50;
+
   }
   .main-heading-div h3{
     font-size: 17px;
