@@ -246,6 +246,7 @@ h3 {
   border: 2px none #000;
   border-radius: 20px;
   margin: 5px 18px 70px 18px;
+  padding: 25px;
 
 
 }
@@ -254,7 +255,6 @@ h3 {
   font-size: 16px;
   font-weight: 400;
   color: #acacac;
-  margin: 10px 30px;
 }
 
 .sec2 {
@@ -265,7 +265,7 @@ h3 {
 .service-box-heading {
   font-size: 23px;
   font-weight: 600;
-  padding: 15px 30px;
+  padding: 15px 0;
 }
 
 .skills {
@@ -288,6 +288,7 @@ h3 {
 h4 {
   padding: 0 15px;
   font-size: 20px;
+  white-space: nowrap;
 }
 
 /* -------portfolio------- */
@@ -413,4 +414,14 @@ section{
 }
 .line1 {
   padding-right:0;
+}
+h4{
+  font-size: 15px;
+}
+.contact-sec1{
+  margin-bottom:25px;
+}
+footer{
+  font-size: 14px;
+}
 }
