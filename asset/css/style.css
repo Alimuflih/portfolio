@@ -184,7 +184,6 @@ section {
   padding: 60px;
   color: transparent;
   -webkit-text-stroke: .5px #FFFFFF30;
-  text-stroke: 4px navy;
   text-transform: uppercase;
 }
 
@@ -429,5 +428,8 @@ footer{
 .skills{
   align-items: center;
   justify-content: left;
+}
+.main-heading {
+  padding: 10px;
 }
 }
